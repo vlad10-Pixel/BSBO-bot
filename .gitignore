@@ -1,0 +1,17 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+.idea/
+.vscode/
+
+example_for_log.py
+first_bot.py
+processing_incoming messages.py
+send_message.py
+send_photo.py
+
+photo 1.jpg
+photo weather.jpg
+weather 2.jpg
